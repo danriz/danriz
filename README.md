@@ -1,5 +1,5 @@
 ### welcome to my repository �
-yo can check my previous professional work as well as academic and personal repositories. 
+you can check my previous professional work as well as academic and personal repositories. 
 <!--
 **danriz/danriz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
